@@ -47,6 +47,7 @@ img {
 
 table{
   font-family: 'Arial';
+  width: 75%;
   table-layout: fixed;
 }
 
