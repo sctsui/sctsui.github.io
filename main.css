@@ -17,5 +17,20 @@ ul {
   .navbar-toggler{
     background-color: transparent;
     border: none;
-    
+}
+
+.col-sm-4 {
+  background-color: rgb(185, 198, 255);
+  margin: 20px 5px !important;
+}
+
+.centered {
+  margin: auto; 
+  width: 80%;
+}
+
+img {
+  width: 250px;
+  height: 450px;
+  object-fit: cover;
 }
