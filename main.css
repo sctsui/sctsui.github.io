@@ -1,5 +1,5 @@
 /*Navigation Bar*/
-ul {
+ul.navbar-nav {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -53,4 +53,10 @@ table{
 th, td{
   padding: 15px;
   border-bottom: 1px solid #ddd;
+}
+
+/*Contact*/
+.contact-list{
+  padding: 30%;
+  padding-top: 0%;
 }
