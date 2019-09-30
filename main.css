@@ -1,3 +1,4 @@
+/*Navigation Bar*/
 ul {
     list-style-type: none;
     margin: 0;
@@ -19,6 +20,8 @@ ul {
     border: none;
 }
 
+/*About page content*/
+
 .col-sm-4 {
   background-color: rgb(185, 198, 255);
   margin: 20px 5px !important;
@@ -33,4 +36,21 @@ img {
   width: 250px;
   height: 450px;
   object-fit: cover;
+}
+
+/*Project page*/
+.jumbotron {
+  background-image: url("flowerbanner.jpg");
+  background-size: cover;
+  font-family: 'Lucida Bright';
+}
+
+table{
+  font-family: 'Arial';
+  table-layout: fixed;
+}
+
+th, td{
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
 }
